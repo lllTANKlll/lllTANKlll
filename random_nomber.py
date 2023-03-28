@@ -3,7 +3,7 @@ from random import*
 
 app = QApplication([])
 okno = QWidget()
-okno.resize((300,300))
+okno.resize(300,300)
 
 
 knopka = QPushButton(okno)
